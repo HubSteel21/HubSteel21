@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HubSteel21
+- 👀 I’m interested in 3D modelling, software language
+- 🌱 I’m currently learning blender , C , python
+- 📫 How to reach me ( You cant )
